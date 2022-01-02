@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://stackoverflow.maskoding.com/sitemap.xml
